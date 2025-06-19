@@ -1,4 +1,4 @@
-#ChatSMS - basic chat template for agents to message!
+#ChatSMS - basic chat template for agents to text over SMS!
 
 I've had a few ideas in mind for building agents that text! Here's the basic template that can be tailored towards 
 most chatting features.
